@@ -1,0 +1,6 @@
+First I go to https://wordpress.com/free/ and create a free website. Then I write the name of website and direction.
+
+1) The url is football3123.wordpress.com
+
+2) I use a theme like Tenaz.
+
